@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# SQLite database
+data.db
+
+# Environment variables
+.env
+*.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Cache directories
+.cache/
+pytest_cache/
+.mypy_cache/
+.pytest_cache/
